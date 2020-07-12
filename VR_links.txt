@@ -1,0 +1,44 @@
+2020 CMSAS Virtual Reality links 
+T2 - Paradis/DDLab 
+
+Time evolution
+
+https://aitor-dddvideo.glitch.me/ 
+
+1st vs last step
+
+https://aitor-dddcompare.glitch.me/
+
+W2 - Z-set/Zebulon
+
+Evolution of triaxiality during tension of a notched bar. The maximum triaxiality is located in the centre of the specimen while the maximum deformation is located at the surface. For this type of specimen, this leads to the initiation of core damage and outward 
+
+https://aitor-nt10.glitch.me/
+
+Evolution of opening stresses (sig22) during crack propagation using GTN modelling. The animation shows a greater propagation in the center with the formation of a curved crack (tunneling effect). To see this, the specimen should be rotated to view the plane of symmetry.
+
+https://aitor-ctvid.glitch.me/
+
+R2 - FFTMAD
+
+Particle reinforced model
+
+https://aitor-3dsphere.glitch.me/
+
+Polycrystal_grains_big
+
+https://aitor-polyshell.glitch.me/
+
+Medium_size_Polycrystal_deformed
+
+https://aitor-microstructure2.glitch.me/
+
+Polycrystal_few_grains_deformed
+
+https://aitor-grains2.glitch.me/ 
+
+All together
+
+https://aitor-viz.glitch.me
+
+
